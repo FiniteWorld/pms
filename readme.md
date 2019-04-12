@@ -1,4 +1,4 @@
-<p align="center">Project Management Sytem using Laravel & Node.js</p>
+<p align="center"><b>Project Management Sytem using Laravel & Node.js</b></p>
 
 ## About Laravel
 
