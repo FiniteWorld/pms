@@ -32,7 +32,7 @@
         "fullcalendar": "^3.10.0",
         "laravel-echo": "^1.5.3",
         "laravel-vue-pagination": "^2.2.0",
-        "moment": "^2.24.0",
+        "moment": "^2.29.4",
         "pusher-js": "^4.4.0",
         "sweetalert2": "^8.0.6",
         "vform": "^1.0.0",
